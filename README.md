@@ -5,6 +5,21 @@
 - pass: 4U+6FOz4
 - [Live Code Fetch](https://us02web.zoom.us/rec/share/__FudOut6z5Lb5Xi-EvxerIdRpXcX6a80CYW_qFYzRz2UT-mNATNqIyN0min8rpt)
 
+## April 24
+
+- Access Password: 8c#U\*^39
+- [Meeting Recording](https://zoom.us/rec/share/2Y8yLLuh2mFJUrP16Xn6e7MbOZ-6eaa8gSRI-vUIxUmA1KM1BfpZOwHzNY3M1nth)
+
+## April 23
+
+- pass: 6c\*z41X?
+- [Meeting Recording](https://zoom.us/rec/share/68ArE5rc6T1OTM_OuEP_ff8wM8e0T6a81yhP8qYLzBwbemB8JBWW8cX5YGTJFDNv)
+
+## April 22
+
+- pass: 9c&41D@6
+- [Meeting Recording](https://zoom.us/rec/share/9dR7d7bop0FLTJ3TzlmYQJQ5PbjGeaa82nJL-6ELmkwrUAfuGlGK2j3rDHG0alJy)
+
 ## April 21
 
 - pass: 0l\*^?J7F
