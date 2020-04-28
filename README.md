@@ -7,8 +7,8 @@
 
 ## April 24
 
-- Access Password: 8c#U\*^39
-- [Meeting Recording](https://zoom.us/rec/share/2Y8yLLuh2mFJUrP16Xn6e7MbOZ-6eaa8gSRI-vUIxUmA1KM1BfpZOwHzNY3M1nth)
+- password: 8c#U\*^39
+- [Gathering User Data -- SimpleHTML command in ZSH](https://zoom.us/rec/share/2Y8yLLuh2mFJUrP16Xn6e7MbOZ-6eaa8gSRI-vUIxUmA1KM1BfpZOwHzNY3M1nth)
 
 ## April 23
 
