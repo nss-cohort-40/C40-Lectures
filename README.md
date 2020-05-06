@@ -1,8 +1,14 @@
 # C40 Zoom Recordings
 
+## May 5
+
+- pass: 0R\*u1^\$5
+- [Factory Functions - Creating Data](https://us02web.zoom.us/rec/share/-e55Ke71pk9OQs-W7Wz9ZpwGAoC1X6a8hCUX-_EOyUlV40z-LtLJzakrNlIQ1OIE)
+
 ## May 4
-* pass: 9A#9wb@R
-* [ES6 Modules](https://us02web.zoom.us/rec/share/6-BcMez-6VtJS7fm1R7zBbUnAIv-aaa8gyUdrqdZzRsaeB3nDssGw5NzpHKHIucP)
+
+- pass: 9A#9wb@R
+- [ES6 Modules](https://us02web.zoom.us/rec/share/6-BcMez-6VtJS7fm1R7zBbUnAIv-aaa8gyUdrqdZzRsaeB3nDssGw5NzpHKHIucP)
 
 ## April 27
 
@@ -11,7 +17,7 @@
 
 ## April 24
 
-- password: 8c#U\*^39
+- pass: 8c#U\*^39
 - [Gathering User Data -- SimpleHTML command in ZSH](https://zoom.us/rec/share/2Y8yLLuh2mFJUrP16Xn6e7MbOZ-6eaa8gSRI-vUIxUmA1KM1BfpZOwHzNY3M1nth)
 
 ## April 23
