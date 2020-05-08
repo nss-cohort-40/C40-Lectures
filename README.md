@@ -1,5 +1,10 @@
 # C40 Zoom Recordings
 
+## May 7
+
+- pass: 0j+85uV5
+- [Handling Delete](https://us02web.zoom.us/rec/share/uukqDa7A0GVJfq_z5h_2RL8PO9rvX6a81SkcrvAMnkaiQJJNCES7KTGB3cymNlvQ)
+
 ## May 5
 
 - pass: 0R\*u1^\$5
