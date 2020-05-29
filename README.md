@@ -1,5 +1,20 @@
 # C40 Zoom Recordings
 
+## May 28
+
+- pass: 3h^x+^rv
+- [React Chapters 5 & 6](https://us02web.zoom.us/rec/share/3cglI7jM1XhIfLPy82_QRvcfAb_meaa81nIa-fsOzEf2AaMc7vkpVUm09edTBV0_)
+
+## May 27
+
+- pass: 5M?59s6?
+- [React Chapters 3 & 4](https://us02web.zoom.us/rec/share/yOpHcL_26m9LYKv0-F3RVvd5Nb7KT6a82yke_qEJmh3o-d6C6QFJa0L0eNQpY5av)
+
+## May 26
+
+- pass: 4x\$2!2m3
+- [React Chapters 3 & 4](https://us02web.zoom.us/rec/share/-PIkP4Hf6z5IWpXixnvyS4IGGdrJeaa8g3RNrvYJnU4Wjab8mVwWUsju6pp8yPai)
+
 ## May 13
 
 - pass: 0h#@=6?D
