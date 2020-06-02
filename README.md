@@ -1,5 +1,10 @@
 # C40 Zoom Recordings
 
+## Jun 1
+
+- pass: 5o?r^2%q
+- [React Chapter 9 ](https://us02web.zoom.us/rec/share/yeNoJpPvqiBJQavsx36BfZwrG6G_eaa8gCkY_aAOmBuu9gL98xoC5FyxovGBuz8J)
+
 ## May 28
 
 - pass: 3h^x+^rv
