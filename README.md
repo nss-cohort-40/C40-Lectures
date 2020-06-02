@@ -5,6 +5,11 @@
 - pass: 5o?r^2%q
 - [React Chapter 9 ](https://us02web.zoom.us/rec/share/yeNoJpPvqiBJQavsx36BfZwrG6G_eaa8gCkY_aAOmBuu9gL98xoC5FyxovGBuz8J)
 
+## May 29
+
+- pass: 7x=0\*3PH
+- [React Chapter 7](https://us02web.zoom.us/rec/share/osBXdujf3UVIBYnH50D9QrUxXbj7T6a8hCYW_KELyk3SaOuh8woYcD3XAbBUVeW2)
+
 ## May 28
 
 - pass: 3h^x+^rv
