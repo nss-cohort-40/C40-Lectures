@@ -1,5 +1,9 @@
 # C40 Zoom Recordings
 
+## Jun 2
+- pass: 5F$?92!#
+- [Rect Chapter 11](https://us02web.zoom.us/rec/share/ydwyAZjU9EFJZ7fE82zWYq95AqHdX6a8hyIa8_JZzhtgZgUOpq0HilxJ8MQxgp9U)
+
 ## Jun 1
 
 - pass: 5o?r^2%q
