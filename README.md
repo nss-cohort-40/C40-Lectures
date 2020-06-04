@@ -1,7 +1,13 @@
 # C40 Zoom Recordings
 
+## Jun 3
+
+- pass: 4l.?^9qM
+- [React Chapter 13](https://us02web.zoom.us/rec/share/1Nd4C7_J0jNOGZ3HzmfbZ64NAdn5T6a81XAf_vENyE2qg29UpeFCmMaldNpeCOOa)
+
 ## Jun 2
-- pass: 5F$?92!#
+
+- pass: 5F\$?92!#
 - [Rect Chapter 11](https://us02web.zoom.us/rec/share/ydwyAZjU9EFJZ7fE82zWYq95AqHdX6a8hyIa8_JZzhtgZgUOpq0HilxJ8MQxgp9U)
 
 ## Jun 1
