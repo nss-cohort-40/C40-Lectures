@@ -1,21 +1,12 @@
 # C40 Zoom Recordings
 
-## Jun 26
 
-- pass: 0n@16?@!
-- [Capstone Soft Demos](https://us02web.zoom.us/rec/share/ovN1NeDO9n5OWI3N1WTvB5FmRZXoX6a8gCdMq_YLxR5OOB8N_30dewA1L4D1Psuh)
+## Jul 15
 
-## Jun 3
+- pass: 6A!6@0L2
+- [Python - Classes - 1](https://us02web.zoom.us/rec/share/6OxpIYraqHpLZJWR5R3vVLEjQKG6eaa8hnJMr_sOxBtHyi96WczxnqkYlH8tvrtg)
 
-- pass: 4l.?^9qM
-- [React Chapter 13](https://us02web.zoom.us/rec/share/1Nd4C7_J0jNOGZ3HzmfbZ64NAdn5T6a81XAf_vENyE2qg29UpeFCmMaldNpeCOOa)
+## Jul 14
 
-## Jun 2
-
-- pass: 5F\$?92!#
-- [Rect Chapter 11](https://us02web.zoom.us/rec/share/ydwyAZjU9EFJZ7fE82zWYq95AqHdX6a8hyIa8_JZzhtgZgUOpq0HilxJ8MQxgp9U)
-
-## Jun 1
-
-- pass: 5o?r^2%q
-- [React Chapter 9 ](https://us02web.zoom.us/rec/share/yeNoJpPvqiBJQavsx36BfZwrG6G_eaa8gCkY_aAOmBuu9gL98xoC5FyxovGBuz8J)
+- pass: 8o=4nDmq
+- [Python - Functions, Comprehensions](https://us02web.zoom.us/rec/share/5cYoaK719FlOBavQtBHNXukPLoDYX6a81iBI_fFYxEZKweFIJWpq4RJykxlN38KG)
