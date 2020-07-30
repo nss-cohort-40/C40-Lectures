@@ -1,5 +1,21 @@
 # C40 Zoom Recordings
 
+## Jul 29
+
+- pass: WaJaO=t6
+- [Python Assessment Review](https://us02web.zoom.us/rec/share/_N1EKLP56WVOetbLyFr-QK04FZbhaaa8hiRI8qcEngGPKpm6vdUXoxtLbuoZNsM)
+
+## Jul 21
+
+- pass: t2i?CRGQ
+- [Python - Multiple Inheritance](https://us02web.zoom.us/rec/share/7JQpDYvtr0JJf4HR7RrwXo0oF7rpaaa813VKqPYKzBw2W8YlrWcJ0nCM_R6InEw9?startTime=1595340430000)
+- [Python - Duck Typing](https://us02web.zoom.us/rec/share/7JQpDYvtr0JJf4HR7RrwXo0oF7rpaaa813VKqPYKzBw2W8YlrWcJ0nCM_R6InEw9?startTime=1595354792000)
+
+## Jul 20
+
+- pass: \$dv4k3Gm
+- [Python - Inheritance](https://us02web.zoom.us/rec/share/uvNscJzv-lhOY7ffsk3_WL8aELTjeaa813VLr_FfxD8B5a7LiQ9CKoEauqEAmeI)
+
 ## Jul 15
 
 - pass: 6A!6@0L2
