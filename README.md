@@ -1,5 +1,12 @@
 # C40 Zoom Recordings
 
+## Jul 30
+
+- pass: &E#zi?7\*
+- [SQL - Morning](https://us02web.zoom.us/rec/share/2Y9HAu3Q1ThIfoHm4lDeWpMFL5nXaaa80XJK_fZcy01g39hFr7fLTLZtu3pPbNYz)
+
+- [SQL - Afternoon](https://us02web.zoom.us/rec/share/2Y9HAu3Q1ThIfoHm4lDeWpMFL5nXaaa80XJK_fZcy01g39hFr7fLTLZtu3pPbNYz?startTime=1596135878000)
+
 ## Jul 29
 
 - pass: WaJaO=t6
