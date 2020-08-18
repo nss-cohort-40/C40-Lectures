@@ -1,5 +1,20 @@
 # C40 Zoom Recordings
 
+## Aug 17
+
+- pass: #XeBDE+6
+  [Django REST API](https://us02web.zoom.us/rec/share/2ehlaO_I7iBOErPq-kCDXvIGII2mT6a81SBPrPsLzB3GdPqUliIOQYCMLHvec0r2)
+
+## Aug 5
+
+- pass: 47kHmDP&
+  [Django Auth - Forms](https://us02web.zoom.us/rec/share/3JZrCr_x_ElIY53_80fnBYI8Grv-X6a8hnca_PQKy0bDY1niedS6KLeX3kYUFYxY)
+
+## Aug
+
+- pass: 4\$24Xj&U
+  [Meeting Recording:](https://us02web.zoom.us/rec/share/180pAevL1jJOWLPHq1v7QrAZWafOeaa81Cgb86VZxE3LEf6dCwDmxrnTjIwh3eis)
+
 ## Jul 30
 
 - pass: &E#zi?7\*
